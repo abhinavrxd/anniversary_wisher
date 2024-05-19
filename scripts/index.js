@@ -56,9 +56,9 @@ function showImage() {
     hh = h / 2,
     opts = {
       strings: [' ','Wedding Anniversary',' Wishes',config.name],
-      charSize: 12,
-      charSpacing: 10,
-      lineHeight: 10,
+      charSize: 8,
+      charSpacing: 8,
+      lineHeight: 8,
 
       cx: w / 2,
       cy: h / 2,
