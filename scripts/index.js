@@ -55,9 +55,9 @@ function showImage() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: [' ',' ','Wedding Anniversary',' Wishes',config.name],
+      strings: [' ','Wedding Anniversary',' Wishes',config.name],
       charSize: 25,
-      charSpacing: 35,
+      charSpacing: 33,
       lineHeight: 40,
 
       cx: w / 2,
