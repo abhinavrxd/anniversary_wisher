@@ -57,7 +57,7 @@ function showImage() {
     opts = {
       strings: [' ','Wedding Anniversary',' Wishes',config.name],
       charSize: 25,
-      charSpacing: 33,
+      charSpacing: 25,
       lineHeight: 40,
 
       cx: w / 2,
@@ -491,7 +491,7 @@ function showImage() {
       setTimeout(openBox, stepMinutes[step - 1]);
       step++;
       //   setTimeout(anim, 1900);
-      setTimeout(showImage, 5000);
+      setTimeout(showImage, 6000);
     }
 
     function showfireworks() {
